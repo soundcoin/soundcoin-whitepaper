@@ -1,4 +1,4 @@
-soundcoin-whitepaper
+soundcoin-abstract
 ====================
 #Abstract:
 
