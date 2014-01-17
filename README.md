@@ -14,7 +14,7 @@ Recently cryptocurrencies have become increasingly popular alternatives to centr
 
 Because cryptocurrencies are linked to a digital wallet instead of corporate identity as with banks, people with privacy concerns find them attractive.
 
-While cryptocurrencies like bitcoin solve many of the problems of centralized currency, these currencies are still fiat, meaning they are backed by nothing tangible in the real world. Historically, fiat currencies are relatively short lived and at the end of their lifespan can be catastrophic to its holders.
+While cryptocurrencies like bitcoin solve many of the problems of centralized currency, these currencies are still fiat, meaning they are backed by nothing tangible in the real world. Historically, fiat currencies are relatively short lived and at the end of their lifespan can be catastrophic to its holders. Comparitively commodities hold their value for long periods of time. Gold and silver for example still remain viable stores of value, making them excellent choices for currencies. This paper will not try to argue any single commodity only the groundwork for any number of competing commodity backed cryptocurrcies.
 
 The central banking power structure is undesirable to many because the power to create money and lend it lies in the hands of an elite power class, whom  have  a stranglehold on not only the money supply, but also the government entities whose initial purpose was to protect the people from this very threat. 
 
