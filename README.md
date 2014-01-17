@@ -1,0 +1,2 @@
+soundcoin-whitepaper
+====================
