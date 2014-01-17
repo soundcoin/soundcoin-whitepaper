@@ -1,6 +1,6 @@
 soundcoin-whitepaper
 ====================
-Abstract:
+#Abstract:
 
 A new series of decentralized cryptocurrencies backed by physical commodities.
 
