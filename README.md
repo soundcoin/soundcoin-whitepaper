@@ -2,7 +2,7 @@ soundcoin-whitepaper
 ====================
 #Abstract:
 
-Soundcoin is a general term to classify a new series of decentralized cryptocurrencies, backed by physical commodities which are warehoused in a physical location such as a vault.
+Soundcoin is a general term to classify a new series of decentralized cryptocurrencies, backed by physical commodities which are warehoused in a physical location such as a vault. While the vault (for example) is centralized, the accounting system is decentralized allowing for fast accurate and transaction accounting.
 
 ##Problems with todays monetary practices:
 
@@ -10,7 +10,7 @@ Today’s currency markets are dominated by fiat currencies, and undermined by u
 
 In collusion with nation-state governments, central banks are creating money out of thin air, and backed only by debt; long-term viability of these currencies appears doubtful. This coupled with growing privacy concerns have led to the emergence of many alternative currencies which are decentralized in nature (ie P2P cryptocurrencies). These currencies offer many benefits such as a distributed transaction accounting, anonymity, predictable supply growth rate (aka predictable inflation), and independence from any single group’s monopoly over the supply or issuance of the currency. 
 
-Recently cryptocurrencies have become increasingly popular alternatives to centralized fiat currencies, because of low transaction fees, and because they have predictable, transparent growth rates. At the time of writing this, 12.2 million bitcoins are in circulation valued at $826.00 USD each. That’s over 10 billion US dollars-worth of bitcoins in circulation since Bitcoin's inception in 2009. People are transitioning naturally to currencies like bitcoin because they offer many advantages that USD or other central banks notes cannot. 
+Recently cryptocurrencies have become increasingly popular alternatives to centralized fiat currencies. Because of low transaction fees, and because they have predictable, transparent growth rates many people and even large corporations are flocking to them. At the time of writing this, 12.2 million bitcoins are in circulation valued at $826.00 USD each. That’s over 10 billion US dollars-worth of bitcoins in circulation since Bitcoin's inception in 2009. People are transitioning naturally to currencies like bitcoin because they offer many advantages that USD or other central banks notes cannot. 
 
 Because cryptocurrencies are linked to a digital wallet instead of corporate identity as with banks, people with privacy concerns find them attractive.
 
