@@ -2,7 +2,7 @@ soundcoin-whitepaper
 ====================
 #Abstract:
 
-Soundcoin is a general term to classify a new series of decentralized cryptocurrencies, backed by physical commodities which are warehoused in a physical location such as a vault in Singapore or Hong Kong.
+Soundcoin is a general term to classify a new series of decentralized cryptocurrencies, backed by physical commodities which are warehoused in a physical location such as a vault.
 
 ##Problems with todays monetary practices:
 
