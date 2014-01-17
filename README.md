@@ -2,7 +2,7 @@ soundcoin-whitepaper
 ====================
 #Abstract:
 
-Soundcoin is a general term to classify a new series of decentralized cryptocurrencies, backed by physical commodities which are warehoused in a physical location such as a vault. While the vault (for example) is centralized, the accounting system is decentralized allowing for fast accurate and transaction accounting.
+Soundcoin is a general term to classify a new series of decentralized cryptocurrencies, backed by physical commodities which are warehoused in a physical location such as a vault. While the vault (for example) is centralized, the accounting system is decentralized, allowing for fast, and accurate transaction accounting.
 
 ##Problems with todays monetary practices:
 
